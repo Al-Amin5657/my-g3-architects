@@ -4,6 +4,8 @@ body {
 
 }
 
+/* Header and banner section styles */
+
 .header-banner-section {
     background: rgba(255, 144, 14, 0.1);
 
@@ -70,9 +72,13 @@ body {
     margin-bottom: 50px;
 }
 
+/* Header and banner section styles end */
+
 main {
     margin: 0 150px;
 }
+
+/* Feature section styles start */
 
 .feature-section {
     display: flex;
@@ -118,6 +124,9 @@ main {
     margin-bottom: 40px;
 }
 
+/* Feature section styles end */
+/* Feature two section start */
+
 .feature-2-section {
     display: flex;
     margin-top: 70px;
@@ -144,10 +153,6 @@ main {
     height: 970px;
 }
 
-/* .features-group {
-    padding-top: 10px;
-} */
-
 .group-info {
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
     padding: 8px;
@@ -166,6 +171,9 @@ main {
     font-weight: 400;
     font-size: 16px;
 }
+
+/* Feature two section end */
+/* Experience styles start */
 
 .experience-section {
     margin-left: 120px;
@@ -195,6 +203,9 @@ main {
     padding-bottom: 10px;
 }
 
+/* Experience styles end */
+/* Fact style start */
+
 .facts-heading {
     color: #131313;
     font-weight: 700;
@@ -208,6 +219,9 @@ main {
     font-size: 16px;
     width: 542px;
 }
+
+/* Fact style end */
+/* Icon section styles start */
 
 .icon-section {
     display: flex;
@@ -253,6 +267,9 @@ main {
     transform: rotate(180deg);
 }
 
+/* Icon section styles end */
+/* Projects styles start */
+
 .project-head {
     font-weight: 700;
     font-size: 45px;
@@ -290,6 +307,9 @@ main {
     font-size: 20px;
 }
 
+/* Projects styles end */
+/* Sponsors styles start */
+
 .sponsor {
     text-align: center;
     margin-top: 100px;
@@ -320,6 +340,8 @@ main {
     width: 120px;
     height: 35px;
 }
+
+/* Sponsors styles end */
 
 footer {
     text-align: center;
